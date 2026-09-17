@@ -2,6 +2,8 @@
 
 Capturar IPS,domínios e porta de um site
 
+para uso no termux
+
 #!/usr/bin/env python3
 # resolve_ip.py - Resolve IPs + hostname reverso + checagem de portas + provedor
 # Uso:
